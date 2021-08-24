@@ -1,5 +1,7 @@
 # GerenciadorEstados
 
+This project was created to study NgRx
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
 
 ## Development server
